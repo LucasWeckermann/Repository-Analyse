@@ -2,7 +2,7 @@
 Dieses Repository ist ein Beispiel-Repository und dient lediglich dazu, dass sich Studierende mit Basisfunktionalitäten des Versionsverwaltungssystems `git` vertraut machen.
 
 ## Codewort
-An dieser Stelle wird ein Codewort aufgeführt, welches keine weitere Relevanz oder Bezug zu etwas hat. Das Codewort lautet `Cottbus`.
+An dieser Stelle wird ein Codewort aufgeführt, welches keine weitere Relevanz oder Bezug zu etwas hat. Das Codewort lautet `Essen`.
 
 ## Branches
 Branches sind eine wunderbare Möglichkeit, wenn Sie beispielsweise eine neue Funktionalität für Ihr Produkt entwicklen möchten. Sie können sich dann einfach einen neuen Branch erzeugen und in Ruhe diese Funktionalität entwickeln. In Ruhe deshalb, da sie andere Kolleg*innen nicht mit halbfertigen Dingen oder gar Fehlern bei deren Entwicklung belästigen. Sie können somit beliebig viele Commits ausführen, Varianten ausprobieren und ggf. verwerfen und bei einem früheren Standpunkt erneut beginnen, ohne abhängig von anderen zu sein bzw. ohne das andere abhängig von Ihnen werden.
