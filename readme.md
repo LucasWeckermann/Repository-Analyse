@@ -2,7 +2,7 @@
 Dieses Repository ist ein Beispiel-Repository und dient lediglich dazu, dass sich Studierende mit Basisfunktionalitäten des Versionsverwaltungssystems `git` vertraut machen.
 
 ## Codewort
-An dieser Stelle wird ein Codewort aufgeführt, welches keine weitere Relevanz oder Bezug zu etwas hat. Das Codewort lautet `Augsburg`.
+An dieser Stelle wird ein Codewort aufgeführt, welches keine weitere Relevanz oder Bezug zu etwas hat. Das Codewort lautet `Berlin`.
 
 ## Tipps und Tricks
 Oftmals finden sich nützliche Hinweise und Shortcuts in der git-Dokumentation, der manuel page.
